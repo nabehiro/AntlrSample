@@ -52,6 +52,7 @@
     <Compile Include="Combined1.g4.parser.cs">
       <DependentUpon>Combined1.g4</DependentUpon>
     </Compile>
+    <Compile Include="Combined1Visitor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
